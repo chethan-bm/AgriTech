@@ -1,6 +1,6 @@
-# micro_solutions
+# Agri_Tech
 
-A new Flutter application.
+A new Flutter application. UI for AgriTech company.
 
 ## Getting Started
 
